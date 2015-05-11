@@ -1,0 +1,6 @@
+desiredPinNumberInteger --> newPinNumberInteger  --> pinNumberInteger
+
+customerAccountArray --> accountsArray 
+
+counterInteger--> countInteger
+pinNumberArray> pinNumbersArray
