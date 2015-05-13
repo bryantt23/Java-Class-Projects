@@ -10,7 +10,7 @@
   
 #####Project 4
 
-  + A Car Rental Project using the constructors
+  + A Car Rental Project using constructors
   
 #####Project 5
 
@@ -30,5 +30,5 @@
   
 #####Project 9
 
-  + Upgrade of Car Rental Project using a grid layouts
+  + Upgrade of Car Rental Project using grid layouts
   
